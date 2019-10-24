@@ -2,7 +2,7 @@ const crear_opt = {
     descripcion: {
         demand: true,
         alias: 'd',
-        desc: 'Descripcion de la tarea por hacer'
+        desc: 'Descripcion de la tarea por hacer. test'
     }
 }
 
